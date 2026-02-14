@@ -52,6 +52,7 @@ The output is a **binary classification**:
 - **Python**
 - **NumPy**
 - **Pandas**
+- **Jupyter notebook**
 - **Matplotlib / Seaborn** (visualization)
 - **TensorFlow / Keras** *(or PyTorch – depending on implementation)*
 
